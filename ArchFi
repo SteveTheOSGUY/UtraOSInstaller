@@ -1,0 +1,3 @@
+pacman -S wget
+wget archfi.sf.net/archfi
+sh archfi
