@@ -160,4 +160,5 @@ pacman -S zip
 pacman -S zsh
 pacman -S zsh-syntax-highlighting
 pacman -S zsh-autosuggestionspacman -S
+echo if you want a full experenxe enable the glasy theme and open cairo dock all files on the desktop
 reboot
