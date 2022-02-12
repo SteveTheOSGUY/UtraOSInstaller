@@ -161,4 +161,17 @@ pacman -S zsh
 pacman -S zsh-syntax-highlighting
 pacman -S zsh-autosuggestionspacman -S
 echo if you want a full experenxe enable the glasy theme and open cairo dock all files on the desktop
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+echo vist https://www.pling.com/p/1355685/ for the theme
+cd /home/user#/Desktop
+git clone https://github.com/Pr0cella/glassy-kde.git
 reboot
