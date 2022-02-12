@@ -163,5 +163,5 @@ if [[  $TOTALMEM -lt 8000000 ]]; then
 fi
 echo -ne "
 -------------------------------------------------------------------------
-                    SYSTEM READY FOR 1-setup.sh
+                    SYSTEM READY FOR pak.sh
 -----------------------
